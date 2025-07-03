@@ -8,6 +8,8 @@ Hey there! I'm Archana, a B.Tech Computer Science graduate with a passion for co
 
 🌱 Currently Learning: Advanced Python, Django, JavaScript and frontend frameworks, SQL
 
+🎯 Goal for 2025 is mastering as many skill for career growth
+
 💫 Manifesting a Permanent job in 2025
 
 Learning , Leaving , Loving
