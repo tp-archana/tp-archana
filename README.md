@@ -6,9 +6,9 @@ Hey there! I'm Archana, a B.Tech Computer Science graduate with a passion for co
 
 💡 Interests: Web development, Software engineering, Data Analytics and tech-driven problem-solving.
 
-🌱 Currently Learning: Advanced Python, Django, JavaScript and frontend frameworks, SQL.
+🌱 Currently Learning: Python Django Development, Data Analytics , AWS
 
-🎯 My goal for 2025 is to master as many skills as possible for career growth.
+🎯 My goal for 2025 is to develop my skills and master as many skills as possible for career growth.
 
 💫 Manifesting a Permanent job in 2025.
 
