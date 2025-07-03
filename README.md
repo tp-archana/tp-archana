@@ -1,16 +1,16 @@
-👩‍💻 Archana TP | Computer Science Graduate | Developer in Progress 
+👩‍💻 Archana TP | Computer Science Engineering Graduate | Developer in Progress 
 
 Hey there! I'm Archana, a B.Tech Computer Science graduate with a passion for coding and technology. I’m always curious to explore new tech trends and build innovative solutions.
 
-🎓 Education: B.Tech in Computer Science and Engineering - MES College of Engineering
+🎓 Education: B.Tech in Computer Science and Engineering - MES College of Engineering.
 
-💡 Interests: Web development, Software engineering, Data Analytics and tech-driven problem-solving 
+💡 Interests: Web development, Software engineering, Data Analytics and tech-driven problem-solving.
 
-🌱 Currently Learning: Advanced Python, Django, JavaScript and frontend frameworks, SQL
+🌱 Currently Learning: Advanced Python, Django, JavaScript and frontend frameworks, SQL.
 
-🎯 Goal for 2025 is mastering as many skill for career growth
+🎯 My goal for 2025 is to master as many skills as possible for career growth.
 
-💫 Manifesting a Permanent job in 2025
+💫 Manifesting a Permanent job in 2025.
 
 Learning , Leaving , Loving
 
